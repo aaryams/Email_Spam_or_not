@@ -1,7 +1,7 @@
 # Email Spam Detection
 
 Image Courtesy:https://github.com/aaryams/Email_Spam_or_not/blob/main/spam%20photo.jpg
-
+Dataset Link:
 Problem Statement:
 
 Email spam, or junk mail, remains a persistent issue, flooding inboxes with unsolicited and often malicious content. These emails may contain cryptic messages, scams, or, most dangerously,phishing attempts.

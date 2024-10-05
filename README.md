@@ -35,6 +35,7 @@ This project encapsulates the power of machine learning in addressing real-world
 In today’s digital landscape, managing email communication comes with the persistent challenge of filtering out spam. This project aimed to create an efficient email spam detection system utilizing Python and machine learning methodologies, empowering users to differentiate between legitimate emails (ham) and unwanted spam messages.
 
 **Key Findings**:
+
 1.**Data Distribution**: My initial analysis of the dataset highlighted a noteworthy distribution:
 approximately 12.53% of emails were identified as spam, while a substantial 87.37% were classified
 as ham. This distribution was pivotal for shaping my analytical approach.
@@ -49,6 +50,5 @@ a safer environment. As I wrap up this project, I anticipate further advancement
 
 Together, let’s strive for spam-free inboxes and secure communications!
 
-**Author**
-Aarya M S
+
 
